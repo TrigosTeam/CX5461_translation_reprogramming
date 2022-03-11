@@ -1,5 +1,8 @@
 # CX5461_translation_reprogramming
 
-Data and scripts for:
+Project in collaboration with:
+Dr. Eric Kusnadi, Dr. Jian Kang, Prof. Rick Pearson
 
-https://www.biorxiv.org/content/10.1101/847723v3
+
+Publication:
+https://www.embopress.org/doi/full/10.15252/embj.2020105111
